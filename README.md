@@ -61,18 +61,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.shion.dev/api?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
-</td>
-</tr>
-</table>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&height=170)
 
-<img src="https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false" alt="GitHub Streak" width="70%" />
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=170)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false)
 
 </div>
 
