@@ -64,22 +64,16 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.shion.dev/api?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false" alt="GitHub Streak" width="70%" />
 
-</div>
-
-### 🌟 Featured Contributions
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=AnshikaM17&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 </div>
 
 ---
