@@ -15,25 +15,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: AnshikaM17
           outputs: dist/github-contribution-grid-snake.svg
-          build_dir: dist
-
-      - name: Push changes
-        uses: actions/upload-artifact@v3
-        with:
-          name: dist
-          path: dist/
 
       - name: Commit & Push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add -A
+          git add dist/
           git commit -m "Generate snake animation" || true
           git push
