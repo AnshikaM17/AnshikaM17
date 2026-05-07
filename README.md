@@ -53,7 +53,7 @@
 
 ## 🐍 Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AnshikaM17/AnshikaM17/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AnshikaM17/AnshikaM17/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
