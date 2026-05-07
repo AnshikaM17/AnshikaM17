@@ -1,4 +1,4 @@
-# 💫 Anshika Mangal
+# Anshika Mangal
 
 > Full-stack developer & AI researcher | Building intelligent systems that scale | Strong foundation in DSA & ML
 
