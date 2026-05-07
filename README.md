@@ -1,4 +1,4 @@
-# Anshika Mangal
+# 💫 Anshika Mangal
 
 > Full-stack developer & AI researcher | Building intelligent systems that scale | Strong foundation in DSA & ML
 
@@ -60,17 +60,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.shion.dev/api?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200px" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200px" />
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.shion.dev/api?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
 
 </div>
 
-<img src="https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false" alt="GitHub Streak" />
-
 ### 🌟 Featured Contributions
 
+<div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=AnshikaM17&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+</div>
 
 ---
 
