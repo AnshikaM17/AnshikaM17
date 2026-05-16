@@ -29,58 +29,52 @@
 ## � Tech Stack
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" width="50" height="50" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python.svg" width="50" height="50" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java.svg" width="50" height="50" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" width="50" height="50" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" width="50" height="50" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" width="50" height="50" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" width="50" height="50" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" width="50" height="50" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Kotlin.svg" width="50" height="50" alt="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Dart.svg" width="50" height="50" alt="Dart"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/R.svg" width="50" height="50" alt="R"/>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPlusPlus.svg" alt="C++" title="C++"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" alt="Python" title="Python"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" alt="Java" title="Java"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" title="C"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin.svg" alt="Kotlin" title="Kotlin"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart.svg" alt="Dart" title="Dart"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R.svg" alt="R" title="R"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="React" title="React"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS.svg" alt="Next.js" title="Next.js"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vue.svg" alt="Vue.js" title="Vue.js"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter.svg" alt="Flutter" title="Flutter"/></a>
 
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React.svg" width="50" height="50" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NextJS.svg" width="50" height="50" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Vue.svg" width="50" height="50" alt="Vue.js"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Flutter.svg" width="50" height="50" alt="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TailwindCSS.svg" width="50" height="50" alt="TailwindCSS"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Vite.svg" width="50" height="50" alt="Vite"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ThreeJS.svg" width="50" height="50" alt="Three.js"/>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg" alt="TailwindCSS" title="TailwindCSS"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite.svg" alt="Vite" title="Vite"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS.svg" alt="Three.js" title="Three.js"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg" alt="Node.js" title="Node.js"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS.svg" alt="Express.js" title="Express.js"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask.svg" alt="Flask" title="Flask"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow.svg" alt="TensorFlow" title="TensorFlow"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch.svg" alt="PyTorch" title="PyTorch"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn.svg" alt="scikit-learn" title="scikit-learn"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV.svg" alt="OpenCV" title="OpenCV"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NumPy.svg" alt="NumPy" title="NumPy"/></a>
 
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NodeJS.svg" width="50" height="50" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/FastAPI.svg" width="50" height="50" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ExpressJS.svg" width="50" height="50" alt="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Flask.svg" width="50" height="50" alt="Flask"/>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pandas.svg" alt="Pandas" title="Pandas"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL.svg" alt="PostgreSQL" title="PostgreSQL"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg" alt="MySQL" title="MySQL"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase.svg" alt="Firebase" title="Firebase"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase.svg" alt="Supabase" title="Supabase"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS.svg" alt="AWS" title="AWS"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP.svg" alt="Google Cloud" title="Google Cloud"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure.svg" alt="Azure" title="Azure"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel.svg" alt="Vercel" title="Vercel"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify.svg" alt="Netlify" title="Netlify"/></a>
 
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TensorFlow.svg" width="50" height="50" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PyTorch.svg" width="50" height="50" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ScikitLearn.svg" width="50" height="50" alt="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/OpenCV.svg" width="50" height="50" alt="OpenCV"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NumPy.svg" width="50" height="50" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Pandas.svg" width="50" height="50" alt="Pandas"/>
-
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL.svg" width="50" height="50" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" width="50" height="50" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL.svg" width="50" height="50" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Firebase.svg" width="50" height="50" alt="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Supabase.svg" width="50" height="50" alt="Supabase"/>
-
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/AWS.svg" width="50" height="50" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GCP.svg" width="50" height="50" alt="Google Cloud"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Azure.svg" width="50" height="50" alt="Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Vercel.svg" width="50" height="50" alt="Vercel"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Netlify.svg" width="50" height="50" alt="Netlify"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" width="50" height="50" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Cloudflare.svg" width="50" height="50" alt="Cloudflare"/>
-
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" width="50" height="50" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github.svg" width="50" height="50" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Figma.svg" width="50" height="50" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Photoshop.svg" width="50" height="50" alt="Photoshop"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/VSCode.svg" width="50" height="50" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux.svg" width="50" height="50" alt="Linux"/>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare.svg" alt="Cloudflare" title="Cloudflare"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github.svg" alt="GitHub" title="GitHub"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma.svg" alt="Figma" title="Figma"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Photoshop" title="Photoshop"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode.svg" alt="VS Code" title="VS Code"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux.svg" alt="Linux" title="Linux"/></a>
 
 </div>
 
