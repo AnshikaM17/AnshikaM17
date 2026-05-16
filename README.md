@@ -29,52 +29,53 @@
 ## � Tech Stack
 <div align="center">
 
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPlusPlus.svg" alt="C++" title="C++"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" alt="Python" title="Python"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" alt="Java" title="Java"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" title="C"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin.svg" alt="Kotlin" title="Kotlin"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart.svg" alt="Dart" title="Dart"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R.svg" alt="R" title="R"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="React" title="React"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS.svg" alt="Next.js" title="Next.js"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vue.svg" alt="Vue.js" title="Vue.js"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter.svg" alt="Flutter" title="Flutter"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50" alt="R"/>
 
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg" alt="TailwindCSS" title="TailwindCSS"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite.svg" alt="Vite" title="Vite"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS.svg" alt="Three.js" title="Three.js"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg" alt="Node.js" title="Node.js"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS.svg" alt="Express.js" title="Express.js"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask.svg" alt="Flask" title="Flask"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow.svg" alt="TensorFlow" title="TensorFlow"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch.svg" alt="PyTorch" title="PyTorch"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn.svg" alt="scikit-learn" title="scikit-learn"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV.svg" alt="OpenCV" title="OpenCV"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NumPy.svg" alt="NumPy" title="NumPy"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="TailwindCSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="50" height="50" alt="Three.js"/>
 
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pandas.svg" alt="Pandas" title="Pandas"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL.svg" alt="PostgreSQL" title="PostgreSQL"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg" alt="MySQL" title="MySQL"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase.svg" alt="Firebase" title="Firebase"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase.svg" alt="Supabase" title="Supabase"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS.svg" alt="AWS" title="AWS"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP.svg" alt="Google Cloud" title="Google Cloud"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure.svg" alt="Azure" title="Azure"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel.svg" alt="Vercel" title="Vercel"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify.svg" alt="Netlify" title="Netlify"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
 
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare.svg" alt="Cloudflare" title="Cloudflare"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github.svg" alt="GitHub" title="GitHub"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma.svg" alt="Figma" title="Figma"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Photoshop" title="Photoshop"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode.svg" alt="VS Code" title="VS Code"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux.svg" alt="Linux" title="Linux"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="50" height="50" alt="Netlify"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="50" height="50" alt="Cloudflare"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="50" height="50" alt="Adobe Photoshop"/>
 
 </div>
 
