@@ -93,7 +93,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnshikaM17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshikaM17&theme=github-compact&hide_border=false)
 
 </div>
 
