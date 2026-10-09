@@ -89,8 +89,7 @@
 
 <div align="center">
 
-<!-- Generated daily by GitHub Actions using your own token — shows ALL contributions including private -->
-![GitHub Metrics](https://raw.githubusercontent.com/AnshikaM17/AnshikaM17/main/dist/metrics.svg)
+![GitHub Streak Stats](https://raw.githubusercontent.com/AnshikaM17/AnshikaM17/main/dist/streak-stats.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&count_private=true&layout=compact)
 

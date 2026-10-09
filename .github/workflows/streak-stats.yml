@@ -1,0 +1,36 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # daily at 00:30 UTC
+  workflow_dispatch:         # allow manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: AnshikaM17
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+        run: node .github/scripts/generate-streak.js
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dist/streak-stats.svg
+          git commit -m "Update streak stats" || true
+          git push
