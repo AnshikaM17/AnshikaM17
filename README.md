@@ -89,11 +89,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshikaM17&theme=dark&show_icons=true&hide_border=false&count_private=true)
+<!-- Generated daily by GitHub Actions using your own token — shows ALL contributions including private -->
+![GitHub Metrics](https://raw.githubusercontent.com/AnshikaM17/AnshikaM17/main/dist/metrics.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaM17&theme=dark&hide_border=false&count_private=true&layout=compact)
 
 </div>
+
 
 ---
 
