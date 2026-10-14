@@ -50,7 +50,7 @@
       style="opacity:0;animation:fadein 0.5s linear forwards 0.9s">Current Streak</text>
     <text x="247.5" y="160" text-anchor="middle" fill="#9E9E9E"
       font-family='"Segoe UI",Ubuntu,sans-serif' font-weight="400" font-size="11"
-      style="opacity:0;animation:fadein 0.5s linear forwards 0.9s">Oct 13</text>
+      style="opacity:0;animation:fadein 0.5s linear forwards 0.9s">Oct 14</text>
 
     <!-- Longest Streak -->
     <text x="412.5" y="80" text-anchor="middle" fill="#FEFEFE"
